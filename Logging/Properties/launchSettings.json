@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Logging": {
-      "commandName": "Project",
-      "commandLineArgs": "A=1B=2"
-    }
-  }
-}
