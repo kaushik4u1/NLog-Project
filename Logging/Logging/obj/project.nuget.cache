@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pD4qLAxkKVRfwg3hy3DcAiL/n0Oy88lZUH0C840ZwdbcqonPGe1Sao5hidmw16O7E+uN4PTT3+la12nL6ROKpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaushik.a.mishra\\source\\repos\\Logging\\Logging\\Logging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaushik.a.mishra\\.nuget\\packages\\nlog\\4.7.13\\nlog.4.7.13.nupkg.sha512"
+  ],
+  "logs": []
+}
